@@ -1,22 +1,22 @@
 <h1 align="center">Hi, I'm Moabe 👋</h1>
-<h3 align="center">Systems Analysis and Development Graduate | Future Full-Stack Developer</h3>
+<h3 align="center">Systems Analysis and Development Graduate | Software Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Passionate%20about-Code%20%26%20Data-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Building%20Solutions-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Passionate%20about-Code%20%26%20Software%20Architecture-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Building%20Scalable%20Applications-green?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🚀 About Me
-I'm an **ADS - Systems Analysis and Development** graduate passionate about technology and creating real solutions. 
+I'm a **Systems Analysis and Development (ADS)** graduate focused on software engineering, back-end logic, and web development. 
 
-I love working on projects that mix **programming, databases, UX/UI, and automation** to deliver better user experiences.
+I enjoy building efficient systems, modeling databases, writing clean code, and creating seamless user interfaces.
 
 - 🎓 **Degree**: Systems Analysis and Development - ADS
-- 💻 **Focus**: Software Development, Data Analysis, Databases, UX/UI, Project Management
-- 🌱 **Currently learning**: Advanced AI and Data Visualization
-- 🎯 **Goal**: Build scalable systems and products that people love to use
+- 💻 **Focus**: Software Engineering, Full-Stack Web Development, Data Modeling & Automation
+- 🌱 **Currently learning**: Advanced Web Frameworks, System Architecture & AI Integration
+- 🎯 **Goal**: Develop robust, scalable, and efficient software applications
 - 🏎️ **Hobby**: Car enthusiast in my free time
 
 ---
@@ -42,27 +42,25 @@ I love working on projects that mix **programming, databases, UX/UI, and automat
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### **Other Skills**
+#### **Other Technical Skills**
 `UX/UI Design` `Software Testing` `Project Management` `Networks` `Operating Systems` `Data Modeling`
 
 ---
 
 ### 📌 What I'm Working On
 Currently building projects focused on:
-- 🗄️ **Database design** and optimization with PostgreSQL & Neo4j
-- 🌐 **Full-Stack Web Dev** with HTML, CSS, JavaScript + Python/Java
-- 📊 **Data Analysis** and Visualization
-- 🎨 **UX/UI** for better, human-centered products  
-- 🤖 **AI** and Intelligent Systems
+- 🌐 **Full-Stack Development**: Building responsive web applications with Python, Java, JavaScript, HTML, and CSS.
+- 🗄️ **Database Architecture**: Designing relational and graph databases with PostgreSQL & Neo4j.
+- ⚡ **Automation & Scripting**: Creating scripts to optimize workflows and process data.
+- 🎨 **UX/UI Design**: Implementing intuitive user interfaces for software projects.
 
 ---
 
 ### 🤝 Let's Connect
-I'm always open to learning, collaborating, and networking with other developers!
+I'm always open to collaborating on tech projects, discussing software development, and connecting with other developers!
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/SEU_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/moabe-undefined-614712429" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
